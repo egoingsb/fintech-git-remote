@@ -1,2 +1,2 @@
 init
-left2
+left1,2
